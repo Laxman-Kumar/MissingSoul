@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894285115187",
+    "firebase_url": "https://missingsoul-a242a.firebaseio.com",
+    "project_id": "missingsoul-a242a",
+    "storage_bucket": "missingsoul-a242a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894285115187:android:c4d041e65051942843d846",
+        "android_client_info": {
+          "package_name": "com.soul.missing.missingperson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894285115187-flgo0j03gakbsavmiqa3p64k2p696qcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu_DvTjU2DPMFSZDzzlu7KWEVR72J4cu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894285115187-flgo0j03gakbsavmiqa3p64k2p696qcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
